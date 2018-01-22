@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Gamelogic/Extensions/Examples/Clock/ClockExample.unity
+  isLoaded: 1
+  isActive: 1
